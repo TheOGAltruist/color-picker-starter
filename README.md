@@ -1,3 +1,3 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+[Link to the deployed App on Netlify](https://astounding-cactus-aa7301.netlify.app/)
